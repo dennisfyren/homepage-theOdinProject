@@ -1,0 +1,15 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+html {
+  height: 100vh;
+}
+
+:root {
+  --background-color: rgb(255, 255, 255);
+  --main-color: rgb(62, 138, 224);
+  --main-color-2: rgb(27, 15, 70);
+  --font-color: rgb(0, 0, 0);
+}
